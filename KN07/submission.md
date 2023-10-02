@@ -3,6 +3,6 @@
 ## AWS
 
 
-![AWS](1AWS.JPG)
+![AWS](1AWS2.JPG)
 
 ![AWS](1AWS.JPG)
