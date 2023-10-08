@@ -45,3 +45,15 @@ Für den DB-Server entschied ich mich für "Standard" anstatt "Premium", weil "P
 
 ![SalesCloudCRM](3SalesCloudCRM.JPG)
 
+Bei Zoho oder Sales Cloud CRM sind die Angaben der Angebote zu unklar. Mein Vorgehen hier wäre, mit den günstigsten Angebote anzufangen und bei Bedarf nachzurüsten. 
+Die Preise wären also:
+Zoho: 224 Euro/Monat
+Sales Cloud CRM: 400 Euro/Monat
+
+# Interpretation der Resultate
+
+Die Angebote unterscheiden sich sehr stark. Das teuerste Angebot ist mehr als 8x der Preis des günstigsten. Natürlich bietet AWS viel mehr für 1865 US-Dollar als Zoho für 224 Euro. Bei AWS erhält man dafür leistungsstarke Server und viele Anpassungsoptionen. Dies erklärt den signifikanten Preisunterschied zwischen AWS und Zoho.
+
+Azure bietet eine kostengünstigere Alternative zu AWS und erfüllt die spezifizierten Anforderungen, da Azure noch flexiblere ServerStrukturen hat. Obwohl die Server bei Azure weniger leistungsstark sind als bei AWS, reichen sie aus, um die Anforderungen zu erfüllen.
+
+Ich persönlich bevorzuge Heroku. Heroku ist weniger Kompliziert als AWS oder Azure, gleichzeitig auch anpassungsfähiger als Zoho oder Sales Cloud CRM. Für nur 300 US-Dollar kann man sich hier nicht beschweren.
