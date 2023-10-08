@@ -27,3 +27,21 @@ Für die umfangreiche Kombinationsmöglichkeiten der Dienstleistungen würde ich
 
 # Replatforming
 
+![Heroku](2Heroku.JPG)
+
+Nach meiner Einschätzung wird das Replatforming bei Heroku 300 US-Dollar im Monat kosten.
+
+![Heroku](2Heroku1.JPG)
+
+Für den Webserver entschied ich mich für den Paket "Performance M", da es eine ausgewogene Mischung aus Ressourcen und Leistung bietet, die den Anforderungen des Webservers entspricht. Für 250 US-Dollar ist der Preis auch sehr gerechtfertigt.
+
+![Heroku](2Heroku2.JPG)
+
+Für den DB-Server entschied ich mich für "Standard" anstatt "Premium", weil "Premium" nicht viel mehr bietet aber 4x den Preis ist. 
+
+# Repurchasing
+
+![Zoho](3Zoho.JPG)
+
+![SalesCloudCRM](3SalesCloudCRM.JPG)
+
