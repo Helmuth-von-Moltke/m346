@@ -1,0 +1,28 @@
+#cloud-config
+packages:
+  - apache2
+  - php
+  - libapache2-mod-php
+
+write_files:
+  - content: |
+      <?php
+$ihrname = "Sheung Tsung Lam";
+?>
+<html>
+<head>
+<title><?php echo($sheungtsunglam); ?></title>
+</head>
+<body>
+well well well
+<br />
+<img src="https://masalambucket.s3.amazonaws.com/photo-1695757826927-1594b271c4ef.jpg" /> 
+<br />
+<p>no references</p>
+</body>
+</html>
+
+    path: /var/www/html/index.html
+
+runcmd:
+  - sudo systemctl restart apache2
